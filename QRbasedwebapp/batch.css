@@ -1,0 +1,33 @@
+.btns {
+    display: inline-block;
+    padding: 6px 15px;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px;
+    color: #fff;
+    background-color: #ff1500;
+    border: none;
+  }
+
+  .btnd:hover {
+    background-color: #0cce29;
+    color: #fff;
+  }
+  .btnd {
+    display: inline-block;
+    padding: 6px 15px;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px;
+    color: #fff;
+    background-color: #2893f8;
+    border: none;
+  }
+  .output-text {
+    color: rgb(206, 34, 34);
+  }
+  

@@ -1,0 +1,18 @@
+.container {
+    max-width: 800px; /* Change this value to increase or decrease the size of the container */
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #99c8d6;
+    padding-right: 100px; 
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    
+  }
+  .form-group.rounded {
+    background-color: #e7eeec;   
+    border-radius: 10px;
+    padding: 2%;
+    margin-top: 50px;
+    
+    
+  }

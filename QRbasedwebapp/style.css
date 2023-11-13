@@ -1,0 +1,90 @@
+/*Style for operator.php*/
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #27363b;
+  }
+  
+  .container {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-size: 20px;
+    margin-right: 10px;
+  }
+  
+  input[type=file] {
+    border: none;
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  }
+  
+  button[type=submit] {
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 24px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    transition: background-color 0.2s;
+  }
+  
+  button[type=submit]:hover {
+    background-color: #0062cc;
+  }
+  
+  .output {
+    margin-top: 30px;
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  .output-text {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #888;
+  }
+  
+  
+  
+  

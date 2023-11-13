@@ -1,0 +1,74 @@
+Start Up,1,Add,Material A,650,1,70,1,1
+Start Up,2,Add,Material B,140,7,0,0,1
+Natural Dispersal,3,MIx,-,0,14,600,20,1
+Synthetic material addition and kneading phase,4,Add,Material A,1256,11,0,0,1
+1st Dilution,5,Add,material C,151,14,0,-/-,1
+2nd dilution,6,Mix,Material C,151,14,1250,15,1
+3rd dilution,9,Add,Material D,123,15,251,15,0
+A,10,A,A,0,0,0,A,0
+C,11,C,C,0,0,0,C,0
+Start Up,1,Add,Material A,650,1,70,1,1
+Start Up,2,Add,Material B,140,7,0,0,1
+Natural Dispersal,3,MIx,-,0,14,600,20,1
+Synthetic material addition and kneading phase,4,Add,Material A,1256,11,0,0,1
+1st Dilution,5,Add,material C,151,14,0,-/-,1
+2nd dilution,6,Mix,Material C,151,14,1250,15,1
+3rd dilution,9,Add,Material D,123,15,251,15,0
+A,10,A,A,0,0,0,A,0
+C,11,C,C,0,0,0,C,0
+Phase 1,1,Add,B,120,123,23,56,1
+Phase 1a,1,Add,B,120,123,23,56,1
+q,3,qdf,qrfd,0,0,0,q,0
+Phase 1a,1,Add,B,120,123,23,56,1
+q,3,qdf,qrfd,0,0,0,q,0
+s,4,d,f,0,0,0,f,0
+Phase 1a,1,Add,B,120,123,23,56,1
+s,4,d,f,0,0,0,f,0
+Phase 1a,1,Add,B,120,123,23,56,1
+s,4,d,f,0,0,0,f,0
+Start up,1,Add,Matrial A,650,220,150,30,1
+Natural Material Dispersion,2,Add,Material B,200,123,522,20,0
+Synthetic Material addition and kneading phase,3,Add,Material A,1230,456,520,45,1
+1st Dilution,4,Mix,Material C,150,232,215,132,0
+3rd Dilution,5,Add,Material D,160,900,124,50,1
+Material D Dispersion,6,Take sample,-,350,14,0,25,1
+Start up,1,Add,Matrial A,650,220,150,30,1
+Natural Material Dispersion,2,Add,Material B,200,123,522,20,0
+Synthetic Material addition and kneading phase,3,Add,Material A,1230,456,520,45,1
+Start up,1,Add,Matrial A,650,220,150,30,1
+Natural Material Dispersion,2,Add,Material B,200,123,522,20,0
+Synthetic Material addition and kneading phase,3,Add,Material A,1230,456,520,45,1
+adf,7,sd,sdfv,0,0,0,WFSWAQ,0
+ADVF,8,JHVG,IBG,0,0,0,OJO,0
+HBG,9,KHB,JBH,0,0,0,OBH,0
+Start up,1,Add,Matrial A,650,220,150,30,1
+Natural Material Dispersion,2,Add,Material B,200,123,522,20,0
+Synthetic Material addition and kneading phase,3,Add,Material A,1230,456,520,45,1
+adf,7,sd,sdfv,0,0,0,WFSWAQ,0
+ADVF,8,JHVG,IBG,0,0,0,OJO,0
+HBG,9,KHB,JBH,0,0,0,OBH,0
+ASDV,10,IGH,IYHB,0,0,0,OJN,0
+QOHU,11,OJUHN,PIJ,0,0,0,JPIMJ,0
+Start up,1,Add,Matrial A,650,220,150,30,1
+Natural Material Dispersion,2,Add,Material B,200,123,522,20,0
+Synthetic Material addition and kneading phase,3,Add,Material A,1230,456,520,45,1
+adf,7,sd,sdfv,0,0,0,WFSWAQ,0
+ADVF,8,JHVG,IBG,0,0,0,OJO,0
+HBG,9,KHB,JBH,0,0,0,OBH,0
+ASDV,10,IGH,IYHB,0,0,0,OJN,0
+QOHU,11,OJUHN,PIJ,0,0,0,JPIMJ,0
+Start up,1,Check,Material A,452,200,120,30,1
+Natural Dispersion,2,Add,Material A,200,130,520,50,1
+Synthetic Material addition and kneading phase,3,Add,Material B,12566,11,0,-/-,1
+1st Dilution,4,Mix,Material A,1236,11,0,-/-,1
+2nd Dilution,5,Add,Material B,150,14,750,15,1
+3rd Dilution,6,Add,Material C,152,1250,14,55,0
+Material D Dispersion,7,Take Sample,Material D,53,14,250,15,1
+Start up,1,Check,Material A,452,200,120,30,1
+Natural Dispersion,2,Add,Material A,200,130,520,50,1
+Synthetic Material addition and kndeading phase,3,Add,Material B,12566,11,0,-/-,1
+1st Dilution,4,Mix,Material A,1236,11,0,-/-,1
+2nd Dilution,5,Add,Material B,150,14,750,15,1
+3rd Dilution,6,Add,Material C,152,1250,14,55,0
+Material D Dispersion,7,Take Sample,Material D,53,14,250,15,1
+Start up,1,Add,MaterialA,1,200,250,30,1
